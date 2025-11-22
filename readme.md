@@ -7,7 +7,7 @@
 
 **AI Real Estate Agent**
 Problem Statement
-The traditional real estate search process is time-consuming and often overwhelming for buyers. Agents spend a significant amount of time on low-value tasks like initial lead qualification and basic p[...]
+The traditional real estate search process is time-consuming and often overwhelming for buyers. Agents spend a significant amount of time on low-value tasks like initial lead qualification
 
 **Analysis**
 Dimension	Description
