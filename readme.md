@@ -13,7 +13,7 @@ The traditional real estate search process is time-consuming and often overwhelm
 Dimension	Description
 Who	Target Audience: Home Buyers, Property Investors, Renters.
 Beneficiaries: Real Estate Agencies, Individual Agents, Property Managers.
-What	Solution: An intelligent AI Agent that automates property discovery using real-time MLS data, answers queries in natural language, and provides personalized recommendations. It includes built-in [...]
+What	Solution: An intelligent AI Agent that automates property discovery using real-time MLS data, answers queries in natural language, and provides personalized recommendations. It includes built-in
 Where	Deployment: Integrated into Real Estate Agency websites, Mobile Apps, and Messaging platforms (WhatsApp, Telegram).
 When	Availability: 24/7 instant response capability, ensuring no lead is lost due to time zone differences or agent unavailability.
 Why	Drivers:
